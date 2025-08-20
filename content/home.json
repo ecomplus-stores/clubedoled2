@@ -1,26 +1,33 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Clube do LED: Iluminação LED para todos",
+  "meta_description": "No Clube do LED, você encontra tudo para sua casa inteligente desde lâmpadas e spots LED de alta qualidade, com foco na eficiência, economia e versatilidade. Nossas lâmpadas LED consomem menos energia e duram mais, enquanto nossos spots LED são perfeitos para criar efeitos de iluminação interessantes. Estamos sempre buscando as últimas novidades em tecnologia LED, para que você possa ter certeza de que está comprando produtos de alta qualidade e com as últimas tendências.",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
+          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg",
+          "link": "/ofertas"
+        },
+        {
+          "img": "/img/uploads/banner-normal.jpg",
+          "link": "/BlackWeek",
+          "alt": "Black Week",
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner-normal.jpg",
+          "alt": "Black Week",
+          "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
         }
       ]
     },
@@ -29,19 +36,41 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-promocoes-destaques.png",
+          "mobile_img": "/img/uploads/banner-promocoes-destaques.png"
+        },
+        {
+          "img": "/img/uploads/banner-promocoes-destaques2.png",
+          "mobile_img": "/img/uploads/banner-promocoes-destaques2.png"
+        },
+        {
+          "img": "/img/uploads/banner-promocoes-destaques3.png",
+          "mobile_img": "/img/uploads/banner-promocoes-destaques3.png"
+        }
+      ]
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65f70ec187ab487fbfe9c242:categories:Super Ofertas:/ofertas",
+      "sort": "offers",
+      "autoplay": 5
+    },
+    {
+      "autoplay": 0,
+      "page": 1,
+      "title": "Novidades",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 12,
+      "collection_id": null,
+      "sort": "news"
     }
   ]
 }

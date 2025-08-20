@@ -22,10 +22,21 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
+      "src": "/img/uploads/compra-segura-new.svg",
+      "alt": "Compra Segura",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": "/img/uploads/letsencrypt-socialshare.png",
+      "alt": "Let's Encrypt"
+    },
+    {
+      "link": "",
+      "src": "/img/uploads/google-avaliacoes-do-consumidor.png"
+    },
+    {
+      "src": "/img/uploads/reclame-aqui-2023.png"
     }
   ],
   "payment_methods": {

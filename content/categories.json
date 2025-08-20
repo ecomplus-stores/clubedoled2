@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-desconto-topo-teste.gif"
+    },
+    {
       "type": "page-title"
     },
     {

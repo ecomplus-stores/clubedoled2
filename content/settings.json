@@ -1,22 +1,26 @@
 {
-  "store_id": 51620,
-  "name": "clubedoled2",
-  "domain": "clubedoled2.netlify.app",
-  "short_name": "clubedoled2",
-  "description": "clubedoled2.",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "domain": "clubedoled.netlify.app",
+  "currency_symbol": "R$",
+  "primary_color": "#004d94",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#004d94",
+  "repository": "ecomplus-stores/clubedoled",
+  "logo": "/img/uploads/logo_clube_do_led_horizontal_4.png",
+  "name": "Clube do LED: Iluminação LED para Todos",
+  "short_name": "Clube do Led",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "font_family": "Rubik",
+  "favicon": "/img/uploads/clube-do-led-favicon.png",
+  "icons_font": "tabler-icons",
+  "country_code": "BR",
+  "secondary_color": "#fff200",
+  "icon": "/img/uploads/clube-do-led-favicon.png",
+  "store_id": 51447,
+  "description": "No Clube do LED, você encontra lâmpadas e spots LED de alta qualidade, com foco na eficiência, economia e versatilidade.",
+  "large_icon": "/img/uploads/clube-do-led-favicon-grande.png"
 }
