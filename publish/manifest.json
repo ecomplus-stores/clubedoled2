@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4bd4410872ee2b8561ba3add67b853b6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.10e5e8a087f1f1c7b22fe750e14a267b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.caeea407bca073f807451a1a90ddbf1e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e2008e3e0de4a2a6374f62555f30aa48.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1b8475a3f90209b8ca4d45876a61c39d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Clube do LED: Iluminação LED para Todos",
+  "short_name": "Clube do Led",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "No Clube do LED, você encontra lâmpadas e spots LED de alta qualidade, com foco na eficiência, economia e versatilidade.",
+  "background_color": "#004d94",
+  "theme_color": "#004d94"
+}
