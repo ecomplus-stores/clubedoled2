@@ -1,23 +1,24 @@
 {
+  "categories_list": {
+    "featured": [],
+    "random": 15,
+    "full_width": true
+  },
+  "menu_all_departments": true,
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
     "link": "",
     "background": "#dfdfdf",
     "color": "#328d5b"
   },
+  "alphabetical_order_submenu": false,
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 15,
-    "full_width": true
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": true,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": true
+  }
 }
