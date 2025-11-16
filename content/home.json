@@ -61,15 +61,6 @@
       "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "68af0db4578b5f7954964a34:categories:Saúde:/saude",
-      "sort": "news",
-      "autoplay": 5
-    },
-    {
       "autoplay": 0,
       "page": 1,
       "title": "Dermatologia",
@@ -87,6 +78,14 @@
       "page": 1,
       "sort": "offers",
       "collection_id": "68af0dcc578b5f7954964abf:categories:Casa, Móveis e Decoração:/casa--moveis-e-decoracao"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "68af0db4578b5f7954964a34:categories:Saúde:/saude",
+      "autoplay": 0
     }
   ]
 }
