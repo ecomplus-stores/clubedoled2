@@ -13,13 +13,13 @@
           "alt": "Black Week",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-categoria-ofertas-black-mobile.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-categoria-ofertas-black-vitaminas.jpg",
-          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg",
+          "mobile_img": "/img/uploads/banner-categoria-ofertas-black-vitaminas-mobile.jpg",
           "link": "/ofertas"
         },
         {
@@ -27,7 +27,7 @@
           "end": "",
           "img": "/img/uploads/banner-ofertas-black-dermatologia.jpg",
           "alt": "Black Week",
-          "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-ofertas-black-dermatologia-mobile.jpg"
         }
       ]
     },
