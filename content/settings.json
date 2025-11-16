@@ -1,5 +1,5 @@
 {
-  "domain": "clubedoled2.netlify.app",
+  "domain": "clubedoled.com.br",
   "currency_symbol": "R$",
   "primary_color": "#004d94",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#004d94",
   "repository": "ecomplus-stores/clubedoled",
   "logo": "/img/uploads/logo_clube_do_led_horizontal_4.png",
-  "name": "Clube do LED: Iluminação LED para Todos",
+  "name": "Clube do LED - Seleção completa de produtos para o seu dia a dia.",
   "short_name": "Clube do Led",
   "lang": "pt_br",
   "currency": "BRL",
