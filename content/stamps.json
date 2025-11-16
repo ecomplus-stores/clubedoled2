@@ -1,13 +1,16 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/black-friday.png",
+      "img": "/img/uploads/mini-black-friday.png",
       "id": "Black Friday",
       "skus": [
         "10-CDP-12-HK-E091001",
         "LBS0155",
         "10-CDP-36-HK-E081501",
-        "PODS2GENPRO"
+        "PODS2GENPRO",
+        "10-SC22G70mm-OT04072024",
+        "ULT0255",
+        "040070064"
       ]
     }
   ]
