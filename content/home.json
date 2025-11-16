@@ -57,7 +57,15 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "68a76736578b5f79548ff56d:categories:Vitaminas e Suplementos:/vitaminas-e-suplementos",
+      "collection_id": "691939c9c650040a8c37fcaa:categories:Acessórios para Celulares:/acessorios-para-celulares",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68af0db4578b5f7954964a34:categories:Saúde:/saude",
       "sort": "news",
       "autoplay": 5
     },
@@ -69,7 +77,7 @@
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
-      "collection_id": "68af0dae578b5f7954964a0b:categories:Beleza e Cuidado Pessoal:/beleza-e-cuidado-pessoal",
+      "collection_id": "68af0db3578b5f7954964a2c:categories:Microcânulas de Preenchimento:/microcanulas-de-preenchimento",
       "sort": "lowest_price"
     },
     {
