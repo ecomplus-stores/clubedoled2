@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
-          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg",
-          "link": "/ofertas"
-        },
-        {
-          "img": "/img/uploads/banner-normal.jpg",
+          "img": "/img/uploads/banner-categoria-ofertas-black.jpg",
           "link": "/BlackWeek",
           "alt": "Black Week",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
+          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg",
+          "link": "/ofertas"
         },
         {
           "start": "",
