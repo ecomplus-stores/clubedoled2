@@ -57,20 +57,28 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "65f70ec187ab487fbfe9c242:categories:Super Ofertas:/ofertas",
-      "sort": "offers",
+      "collection_id": "68a76736578b5f79548ff56d:categories:Vitaminas e Suplementos:/vitaminas-e-suplementos",
+      "sort": "news",
       "autoplay": 5
     },
     {
       "autoplay": 0,
       "page": 1,
-      "title": "Novidades",
-      "shuffle": false,
+      "title": "Dermatologia",
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "68af0dae578b5f7954964a0b:categories:Beleza e Cuidado Pessoal:/beleza-e-cuidado-pessoal",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "collection_id": "68af0dcc578b5f7954964abf:categories:Casa, Móveis e Decoração:/casa--moveis-e-decoracao"
     }
   ]
 }
