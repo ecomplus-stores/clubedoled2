@@ -1,7 +1,7 @@
 {
   "domain": "clubedoled.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#004d94",
+  "primary_color": "#25ba34",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
