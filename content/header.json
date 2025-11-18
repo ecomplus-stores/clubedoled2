@@ -7,7 +7,7 @@
   "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "",
+    "text": "BLACK FRIDAY",
     "link": "",
     "background": "#dfdfdf",
     "color": "#328d5b"
@@ -18,7 +18,7 @@
   "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   }
 }
