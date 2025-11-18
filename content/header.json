@@ -1,7 +1,7 @@
 {
   "categories_list": {
     "featured": [],
-    "random": 15,
+    "random": 7,
     "full_width": true
   },
   "menu_all_departments": true,
@@ -13,6 +13,7 @@
     "color": "#328d5b"
   },
   "alphabetical_order_submenu": false,
+  "name_all_departments": "TODOS PRODUTOS",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": true,
