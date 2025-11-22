@@ -1,7 +1,7 @@
 {
   "domain": "clubedoled.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#25ba34",
+  "primary_color": "#daff3f",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/clube-do-led-favicon.png",
   "icons_font": "tabler-icons",
   "country_code": "BR",
-  "secondary_color": "#fff200",
+  "secondary_color": "#004d94",
   "icon": "/img/uploads/clube-do-led-favicon.png",
   "store_id": 51620,
   "description": "A Clube do LED evoluiu — agora é o seu destino para comprar com confiança, variedade e conveniência.\nOferecemos soluções completas para eletrônicos, iluminação, decoração, artigos para casa e produtos de estética, atendendo profissionais e consumidores finais.",
