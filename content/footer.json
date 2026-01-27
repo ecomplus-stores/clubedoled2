@@ -22,12 +22,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/compra-segura-new.svg",
-      "alt": "Compra Segura",
-      "width": 150,
-      "height": 62
-    },
-    {
       "src": "/img/uploads/letsencrypt-socialshare.png",
       "alt": "Let's Encrypt"
     }
