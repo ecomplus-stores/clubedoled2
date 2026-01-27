@@ -6,7 +6,40 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Fale Conosco",
+        "url": "/pages/contato"
+      },
+      {
+        "url": "/pages/sobre-nos",
+        "text": "Sobre Nós"
+      },
+      {
+        "url": "/pages/entrega",
+        "text": "Entrega"
+      },
+      {
+        "url": "/pages/faq",
+        "text": "FAQ"
+      },
+      {
+        "url": "/pages/pagamentos",
+        "text": "Pagamentos"
+      },
+      {
+        "url": "/pages/privacidade",
+        "text": "Política de Privacidade"
+      },
+      {
+        "url": "/pages/termos",
+        "text": "Termos de Serviço"
+      },
+      {
+        "url": "/pages/trocas",
+        "text": "Trocas e Devoluções"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
