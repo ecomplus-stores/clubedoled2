@@ -30,13 +30,6 @@
     {
       "src": "/img/uploads/letsencrypt-socialshare.png",
       "alt": "Let's Encrypt"
-    },
-    {
-      "link": "",
-      "src": "/img/uploads/google-avaliacoes-do-consumidor.png"
-    },
-    {
-      "src": "/img/uploads/reclame-aqui-2023.png"
     }
   ],
   "payment_methods": {
