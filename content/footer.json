@@ -53,12 +53,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/letsencrypt-socialshare.png",
-      "alt": "Let's Encrypt"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "pix": true,
     "visa": true,
