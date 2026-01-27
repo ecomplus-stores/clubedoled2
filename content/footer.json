@@ -8,16 +8,16 @@
     "title": "Páginas",
     "list": [
       {
+        "url": "/pages/entrega",
+        "text": "Entrega"
+      },
+      {
         "text": "Fale Conosco",
         "url": "/pages/contato"
       },
       {
         "url": "/pages/sobre-nos",
         "text": "Sobre Nós"
-      },
-      {
-        "url": "/pages/entrega",
-        "text": "Entrega"
       },
       {
         "url": "/pages/faq",
